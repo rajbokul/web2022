@@ -9,6 +9,10 @@ hr {
   width: 5%;
 }
 
-h1.h2 {
+h1 {
+  color: #66BFBD;
+}
+
+h2 {
   color: #66BFBD;
 }
