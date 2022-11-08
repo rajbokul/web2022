@@ -7,4 +7,12 @@ h1 {
 
 div {
   background-color: #E4F9F5;
+  height: 200px;
+  width: 200px;
+}
+.middle {
+  background-color: red;
+}
+.bottom {
+  background-color: blue;
 }
