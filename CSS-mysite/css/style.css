@@ -10,6 +10,12 @@ div {
   height: 200px;
   width: 200px;
 }
+.top {
+  padding: 2px;
+  border: solid;
+  border-color: black;
+  margin: 5px;
+}
 .middle {
   background-color: red;
 }
