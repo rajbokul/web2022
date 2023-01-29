@@ -30,13 +30,13 @@ h4,
 h5,
 h6 {
   font-family: 'Montserrat-Bold', sans-serif;
-  font-weight: 700;
+  font-weight: 3rem;
 }
 
 .big-heading {
   font-family: 'Montserrat-Black', sans-serif;
-  font-size: 3.5rem;
-  font-weight: 900;
+  font-size: 2.5rem;
+  font-weight: 9;
   line-height: 1.5;
 }
 
