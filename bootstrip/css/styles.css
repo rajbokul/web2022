@@ -176,3 +176,6 @@ h6 {
     transform: rotate(0);
   }
 }
+.carousel-item {
+  height: 500px;
+}
